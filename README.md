@@ -1,5 +1,7 @@
 # Learning Gleam
 
+[How to read a file](docs/read-file.md)
+
 ## Development
 
 ```sh
