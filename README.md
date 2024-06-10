@@ -1,6 +1,7 @@
 # Learning Gleam
 
 [How to read a file](docs/read-file.md)
+[How to do nothing in an "else" condition](docs/case-expressions.md#how-to-do-nothing-in-an-else-condition)
 
 ## Development
 
